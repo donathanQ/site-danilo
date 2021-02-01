@@ -44,7 +44,7 @@ header .container .titulo{
     height: 100px;
 }
 
-main .container{
+main .container-principal{
     width: 100%;
     padding-right: 20px;
     
@@ -101,6 +101,13 @@ main .container{
     width: 200px;
     display: flex;
     justify-content: space-between;
+}
+
+.links a{
+    color: white;
+}
+.links a :hover{
+    color: #777777;
 }
 
 .box-imagem{
