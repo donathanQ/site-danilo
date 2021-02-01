@@ -35,6 +35,10 @@ header .container .titulo{
     /* font-style: italic; */
 }
 
+.subtitulo{
+    color: #fff0f0
+}
+
 .margin{
     margin: 0 auto;
     width: 100%;
@@ -72,6 +76,7 @@ main .container-principal{
 
 .caracteristicas .desc{
     padding-top: 30px;
+    color: #fff0f0;
 
 }
 .caracteristicas h1{
@@ -118,4 +123,5 @@ main .container-principal{
 .titulo-carrocel{
     font-size: 40px;
     padding-bottom: 10px;
+    color: #fff0f0;
 }
