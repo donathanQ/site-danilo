@@ -36,7 +36,9 @@ header .container .titulo{
 }
 
 .subtitulo{
-    color: #fff0f0
+    color: #fff0f0;
+    display: none; 
+    
 }
 
 .margin{
