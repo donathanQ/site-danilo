@@ -129,3 +129,16 @@ main .container-principal{
     padding-bottom: 10px;
     color: #fff0f0;
 }
+
+
+
+.footer{
+    display: flex;
+    padding:24px 0px;
+}
+
+.footer span{
+    font-size:large;
+    margin: 0 auto;
+
+}
